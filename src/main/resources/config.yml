@@ -1,0 +1,17 @@
+# Permissions:
+# headmotd.join - the permission to display motd
+# headmotd.admin - commands: /headmotd help (admin help), /headmotd reload (config reload)
+#
+head-size: 8
+center-messages: true
+
+#You can use placeholders from PlaceholdersApi in this message
+message:
+  - ' '
+  - ' '
+  - '<dark_aqua>Hello <aqua>{player}!'
+  - '<dark_aqua>Thank you for installing my plugin!'
+  - '<aqua>You can change this message in config.yml'
+  - '<dark_aqua>Have a nice play!'
+  - ' '
+  - ' '

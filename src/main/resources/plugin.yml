@@ -1,0 +1,8 @@
+name: HeadJoin
+version: '${project.version}'
+main: io.alerium.headjoin.HeadJoin
+api-version: 1.19
+authors: [ Justugh ]
+depend: [ PlaceholderAPI ]
+commands:
+  headmotd:
