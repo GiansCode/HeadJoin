@@ -15,3 +15,14 @@ message:
   - '<dark_aqua>Have a nice play!'
   - ' '
   - ' '
+
+custom-messages:
+  test:
+    - ' '
+    - ' '
+    - ' '
+    - '<dark_aqua>This is a custom message!'
+    - '<aqua>You can change this message in config.yml'
+    - ' '
+    - ' '
+    - ' '
